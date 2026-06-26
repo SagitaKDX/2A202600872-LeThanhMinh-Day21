@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/minhlethanh/Documents/AIA/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/4b4f4cd54b664ae8aa682606d4b607f0/artifacts
+end_time: 1782433260983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b4f4cd54b664ae8aa682606d4b607f0
+run_name: melodic-hawk-95
+run_uuid: 4b4f4cd54b664ae8aa682606d4b607f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782433259219
+status: 3
+tags: []
+user_id: minhlethanh
