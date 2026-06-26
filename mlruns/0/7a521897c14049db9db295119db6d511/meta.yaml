@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/minhlethanh/Documents/AIA/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/7a521897c14049db9db295119db6d511/artifacts
+end_time: 1782433158075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a521897c14049db9db295119db6d511
+run_name: salty-hen-650
+run_uuid: 7a521897c14049db9db295119db6d511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782433156741
+status: 3
+tags: []
+user_id: minhlethanh

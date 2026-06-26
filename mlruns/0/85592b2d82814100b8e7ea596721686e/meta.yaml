@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/minhlethanh/Documents/AIA/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/85592b2d82814100b8e7ea596721686e/artifacts
+end_time: 1782433155436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85592b2d82814100b8e7ea596721686e
+run_name: secretive-mole-844
+run_uuid: 85592b2d82814100b8e7ea596721686e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782433153864
+status: 3
+tags: []
+user_id: minhlethanh
